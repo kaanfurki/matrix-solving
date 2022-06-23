@@ -1,6 +1,7 @@
 # matrix-solving
 -You can evaluate the solution vector (x for Ax=b) where A is n*n matrix and 
 where b is n*1 vector trough this program.
+
 -The source file of this program and matrix and vector files should be in the
 same folder for this program to reach files.
 -Matrix and vector file should be in txt format.
