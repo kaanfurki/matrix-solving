@@ -25,11 +25,14 @@ solutions are written.
 //Condition number case
 
 e.g. when A= 1.000 1.000 and b= 2.000
+
 	     1.000 1.001        2.000
 	     
 the solution through Gaussian elimination with partial pivoting is
 x= [2 0]
+
 when b= 2.000
+
         2.001
 x= [1 1].
 
